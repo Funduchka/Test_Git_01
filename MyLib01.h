@@ -2,7 +2,9 @@
 #define MYLIB01_H
 
 void PrintSergey_01();
+void PrintSergey_02();
 
 int MySq(int x);
+
 
 #endif // MYLIB01_H
