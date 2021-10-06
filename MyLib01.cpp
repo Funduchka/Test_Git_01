@@ -3,6 +3,9 @@
 
 using namespace std;
 
+///
+/// \brief PrintSergey_01
+///
 void PrintSergey_01()
 {
     cout << "Sergey_01" << endl;
