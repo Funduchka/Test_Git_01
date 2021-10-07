@@ -8,3 +8,8 @@ void PrintDasha_01()
     cout << "Dasha_01" << endl; // Комментарий от Сергея
     // еще одна строчка
 }
+
+void PrintDasha_Experimental()
+{
+    cout << "Dasha_Experimental" << endl;
+}
