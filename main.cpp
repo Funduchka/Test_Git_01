@@ -9,6 +9,7 @@ int main()
     PrintSergey_01();
     PrintSergey_02();
     PrintDasha_01();
+    PrintDasha_Experimental();
 
     cout << "MySq(3) = " << MySq(3) << endl;
 
