@@ -3,6 +3,8 @@
 
 void PrintSergey_01();
 void PrintSergey_02();
+void PrintSergey_03();
+void PrintSergey_04();
 
 int MySq(int x);
 

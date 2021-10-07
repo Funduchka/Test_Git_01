@@ -8,9 +8,14 @@ int main()
 {
     PrintSergey_01();
     PrintSergey_02();
+    PrintSergey_03();
     PrintDasha_01();
+    PrintSergey_04();
 
-    cout << "MySq(3) = " << MySq(3) << endl;
+    cout << "MySq(5) = " << MySq(5) << endl; // 3 --> 4 --> 5
+    cout << "Hello" << endl;
+
+
 
     return 0;
 }
