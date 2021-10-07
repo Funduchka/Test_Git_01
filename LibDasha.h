@@ -2,5 +2,6 @@
 #define LIBDASHA_H
 
 void PrintDasha_01();
+void PrintDasha_Experimental();
 
 #endif // LIBDASHA_H

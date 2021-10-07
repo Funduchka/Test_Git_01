@@ -24,7 +24,13 @@ void PrintSergey_04()
 {
     cout << "Sergey_04" << endl;
 }
+void PrintSergey_05()
+{
+    cout << "Sergey_05" << endl;
+}
 int MySq(int x)
 {
     return x*x;
 }
+
+
