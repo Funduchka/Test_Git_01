@@ -13,3 +13,8 @@ void PrintDasha_Experimental()
 {
     cout << "Dasha_Experimental" << endl;
 }
+
+void PrintDasha_02()
+{
+    cout << "Dasha_02" << endl;
+}

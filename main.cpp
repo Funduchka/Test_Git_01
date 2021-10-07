@@ -10,16 +10,13 @@ int main()
     PrintSergey_02();
     PrintSergey_03();
     PrintDasha_01();
+    PrintDasha_02();
     PrintDasha_Experimental();
     PrintSergey_04();
     PrintSergey_05();
 
     cout << "MySq(5) = " << MySq(5) << endl; // 3 --> 4 --> 5
     cout << "Hello" << endl;
-
-
-
-
 
 
     return 0;
